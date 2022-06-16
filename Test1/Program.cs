@@ -10,6 +10,8 @@ namespace Test1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First push");
+            Console.WriteLine("Second push");
             Console.WriteLine("Third push");
         }
     }
